@@ -2,7 +2,7 @@
 <resources>
     <string name="name">नाम</string>
     <string name="categories">श्रेणियाँ</string>
-    <string name="manga">लाइब्रेरी के आइटम</string>
+    <string name="manga">पुस्तकालय के वस्तु</string>
     <string name="chapters">अध्याय</string>
     <string name="track">पदचिह्न</string>
     <string name="history">इतिहास</string>
@@ -30,7 +30,7 @@
     <string name="action_bookmark">बुकमार्क अध्याय</string>
     <string name="action_remove_bookmark">अध्याय बुकमार्क हटाये</string>
     <string name="action_delete">हटाये</string>
-    <string name="action_update_library">पुस्तकालय अपडेट करें</string>
+    <string name="action_update_library">पुस्तकालय अद्यतन करें</string>
     <string name="action_edit">संपादित करें</string>
     <string name="action_add">जोड़े</string>
     <string name="action_add_category">श्रेणियाँ जोड़े</string>
@@ -47,8 +47,8 @@
     <string name="action_open_in_browser">ब्राउज़र में खोलें</string>
     <string name="action_display_mode">प्रदर्शन प्रणाली</string>
     <string name="action_display">प्रदर्शन</string>
-    <string name="action_display_grid">कॉम्पैक्ट ग्रिड</string>
-    <string name="action_display_list">सूची</string>
+    <string name="action_display_grid">प्रदर्शन ग्रिड</string>
+    <string name="action_display_list">प्रदर्शन सूची</string>
     <string name="action_display_download_badge">डाउनलोड किए गए अध्याय</string>
     <string name="action_cancel">रद्द करें</string>
     <string name="action_sort">श्रेणी के अनुसार रखना</string>
@@ -69,7 +69,7 @@
     <string name="pref_category_about">संबंध में</string>
     <string name="pref_library_columns">ग्रिड आकार</string>
     <string name="portrait">चित्र</string>
-    <string name="landscape">लैंडस्केप</string>
+    <string name="landscape">परिदृश्य</string>
     <string name="pref_library_update_interval">स्वचालित अद्यतन</string>
     <string name="update_never">ऑफ़</string>
     <string name="update_6hour">हर ६ घंटे</string>
@@ -82,7 +82,7 @@
     <string name="charging">चार्ज होते समय</string>
     <string name="pref_update_only_non_completed">पूरी की गई श्रृंखला</string>
     <string name="pref_auto_update_manga_sync">पढ़ने के बाद प्रगति अपडेट करें</string>
-    <string name="default_category">डिफ़ॉल्ट श्रेणी</string>
+    <string name="default_category">गलत श्रेणी</string>
     <string name="default_category_summary">हमेशा पूछे</string>
     <string name="pref_fullscreen">पूर्ण स्क्रीन</string>
     <string name="pref_page_transitions">चेतन पृष्ठ संक्रमण</string>
@@ -95,8 +95,8 @@
     <string name="pref_read_with_volume_keys">ध्वनि कुंजी</string>
     <string name="pref_read_with_volume_keys_inverted">ध्वनि कुंजी पलटे</string>
     <string name="pref_reader_theme">पीछे का रंग</string>
-    <string name="white_background">सफेद</string>
-    <string name="black_background">काला</string>
+    <string name="white_background">सफेद पृष्ठभूमि</string>
+    <string name="black_background">काला पृष्ठभूमि</string>
     <string name="pref_viewer_type">डिफ़ॉल्ट रीडिंग मोड</string>
     <string name="left_to_right_viewer">बाएं से दाएं</string>
     <string name="right_to_left_viewer">दाएं से बाएं</string>
@@ -111,9 +111,9 @@
     <string name="scale_type_smart_fit">चतुर फ़िट</string>
     <string name="pref_zoom_start">ज़ूम शुरू की स्थिति</string>
     <string name="zoom_start_automatic">स्वचालित</string>
-    <string name="zoom_start_left">बाएं</string>
-    <string name="zoom_start_right">दाएँ</string>
-    <string name="zoom_start_center">मध्यविंदु</string>
+    <string name="zoom_start_left">ज़ूम प्रारंभ बाईं ओर</string>
+    <string name="zoom_start_right">ज़ूम प्रारंभ दाएँ ओर</string>
+    <string name="zoom_start_center">ज़ूम प्रारंभ मध्यविंदु ओर</string>
     <string name="pref_rotation_type">नियमित आवर्तन</string>
     <string name="rotation_free">मुक्त</string>
     <string name="rotation_force_portrait">सीधे बंद</string>
